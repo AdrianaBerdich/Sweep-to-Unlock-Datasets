@@ -1,6 +1,5 @@
 # Sweep-to-Unlock-Datasets
 Details for a Sweep-to-Unlock dataset used for smartphone fingerprinting based on their loudspeaker characteristics. 
-A PDF link for our paper can be found at https://www.aut.upt.ro/~bgroza/Papers/sweep-to-unlock.pdf
 
 # Fingerprinting Smartphones based on Loudspeaker Roll-off Characteristics
 
@@ -70,7 +69,9 @@ The FFT EXTRACTIONS folder contains the power spectrum of the liner sweep signal
 
 Feel free to use our dataset for research purposes by giving credit to our paper below.
 # 3. Publication
-A. Berdich, B. Groza, R. Mayrhofer, E. Levy, A. Shabtai and Y. Elovici, "Sweep-to-Unlock: Fingerprinting Smartphones based on Loudspeaker Roll-off Characteristics", IEEE Transactions on Mobile Computing, accepted 2021. [pdf]
+A. Berdich, B. Groza, R. Mayrhofer, E. Levy, A. Shabtai and Y. Elovici, "Sweep-to-Unlock: Fingerprinting Smartphones based on Loudspeaker Roll-off Characteristics", IEEE Transactions on Mobile Computing, accepted 2021. 
+A PDF link for our paper can be found at https://www.aut.upt.ro/~bgroza/Papers/sweep-to-unlock.pdf
+
 
 ```
 @article{BerdichGMLSE,
