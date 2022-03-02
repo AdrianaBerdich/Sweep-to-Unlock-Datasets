@@ -47,7 +47,7 @@ Dataset content The dataset is structured as described below. We provide the cle
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;       |------ speakers A to P (16 loudspeakers x 100 samples) \
 |------ Clean recordings distinct loudspeakers (12 phones x 5-10 samples) 
 
-Dataset Download Link: RAW_RECORDINGS.zip (2.06GB) 
+Dataset Download Link: http://www.aut.upt.ro/~bgroza/projects/RAW_RECORDINGS.zip (2.06GB) 
 
 ** FFT EXTRACTIONS (folder, 6300 files)** \
 |------ Clean recordings identical loudspeakers (Samsung J5) \
@@ -56,7 +56,7 @@ Dataset Download Link: RAW_RECORDINGS.zip (2.06GB)
 |------- 2-7Khz passband extracted (16 loudspeakers x 100 samples) \
 |------- AWGN affected (16 loudspeakers x 100 samples) 
 
-Dataset Download Link: FFT_EXTRACTIONS.zip (76.5MB)
+Dataset Download Link: http://www.aut.upt.ro/~bgroza/projects/FFT_EXTRACTIONS.zip (76.5MB)
 
 Note that the RAW files are very large and uncut, it is advisable that you use the FFT extractions.
 
@@ -70,7 +70,6 @@ The FFT EXTRACTIONS folder contains the power spectrum of the liner sweep signal
 Feel free to use our dataset for research purposes by giving credit to our paper below.
 # 3. Publication
 A. Berdich, B. Groza, R. Mayrhofer, E. Levy, A. Shabtai and Y. Elovici, "Sweep-to-Unlock: Fingerprinting Smartphones based on Loudspeaker Roll-off Characteristics", IEEE Transactions on Mobile Computing, accepted 2021. 
-A PDF link for our paper can be found at https://www.aut.upt.ro/~bgroza/Papers/sweep-to-unlock.pdf
 
 
 ```
