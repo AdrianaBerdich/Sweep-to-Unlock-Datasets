@@ -41,22 +41,22 @@ Dataset content The dataset is structured as described below. We provide the cle
 
 ## Folder structure ##
 
-** RAW RECORDINGS (folder, 131 files)** \
+**RAW RECORDINGS (folder, 131 files)** \
 |------ Clean recordings identical loudspeakers (Samsung J5) \
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;       |------ speakers B, D, E (3 loudspeakers x 500 samples) \
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;       |------ speakers A to P (16 loudspeakers x 100 samples) \
 |------ Clean recordings distinct loudspeakers (12 phones x 5-10 samples) 
 
-Dataset Download Link: http://www.aut.upt.ro/~bgroza/projects/RAW_RECORDINGS.zip (2.06GB) 
+Dataset Download Link: [RAW_RECORDINGS.zip](http://www.aut.upt.ro/~bgroza/projects/RAW_RECORDINGS.zip) (2.06GB) 
 
-** FFT EXTRACTIONS (folder, 6300 files)** \
+**FFT EXTRACTIONS (folder, 6300 files)** \
 |------ Clean recordings identical loudspeakers (Samsung J5) \
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;       |------- speakers B, D, E (3 loudspeakers x 500 samples) \
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;      |------- speakers A to P (16 loudspeakers x 100 samples) \
 |------- 2-7Khz passband extracted (16 loudspeakers x 100 samples) \
 |------- AWGN affected (16 loudspeakers x 100 samples) 
 
-Dataset Download Link: http://www.aut.upt.ro/~bgroza/projects/FFT_EXTRACTIONS.zip (76.5MB)
+Dataset Download Link: [FFT_EXTRACTIONS.zip](http://www.aut.upt.ro/~bgroza/projects/FFT_EXTRACTIONS.zip) (76.5MB)
 
 Note that the RAW files are very large and uncut, it is advisable that you use the FFT extractions.
 
