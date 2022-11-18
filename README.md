@@ -1,7 +1,7 @@
 <meta name="google-site-verification" content="ymIXsXQBvbk4zpfJUTQ2CNKMxL4LLH0xf-yf349ysS0" />
 
 # SweepToUnlock Datasets
-Details for a Sweep to Unlock dataset used for smartphone fingerprinting based on their loudspeaker characteristics. 
+Details for a Sweep to Unlock dataset used for smartphone fingerprinting based on their loudspeaker characteristics. For a similar dataset containing loudspeaker data for device fingerprinting please see: https://github.com/ABerdich/Microphone-Fingerprint
 
 # Fingerprinting Smartphones based on Loudspeaker Roll-off Characteristics
 
